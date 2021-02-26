@@ -1,7 +1,7 @@
 # Social-Media-
 
 # Here user can Login with google using firebase authentication.
-# User can post and like-dislike the posts.
+ User can post and like-dislike the posts. Stores user data using firebase cloud firestore.
 
 ![Screenshot_1614338443](https://user-images.githubusercontent.com/72352873/109296699-9ec72700-77e5-11eb-8f99-d0fdd80687eb.png)
 
