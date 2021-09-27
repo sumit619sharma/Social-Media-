@@ -1,9 +1,11 @@
 # Social-Media-
 
-# Here user can Login with google using firebase authentication.
- User can post and like-dislike the posts. Stores user data using firebase cloud firestore.
+# An android chat app which sync user post data in realtime.
+ 
 
-![Screenshot_1614338443](https://user-images.githubusercontent.com/72352873/109296699-9ec72700-77e5-11eb-8f99-d0fdd80687eb.png)
 
-![Screenshot_1614338536](https://user-images.githubusercontent.com/72352873/109296992-1eed8c80-77e6-11eb-947b-5924e7ae394a.png)
-![Screenshot_1614338762](https://user-images.githubusercontent.com/72352873/109297111-53f9df00-77e6-11eb-8d21-a5a85915fd9c.png)
+<img src="https://user-images.githubusercontent.com/72352873/109297111-53f9df00-77e6-11eb-8d21-a5a85915fd9c.png" width="300" height="500" > <img src="https://user-images.githubusercontent.com/72352873/134967841-3f183c8c-e69c-4c2e-a239-733171742431.jpg" width="300" height="500" > 
+<img src="https://user-images.githubusercontent.com/72352873/134967859-5016b283-e6bd-4286-b039-ce6ef1d9aa9d.jpg" width="300" height="500" >
+<img src="https://user-images.githubusercontent.com/72352873/134967877-90a6ddc5-80d1-44c6-b562-9d7502fcf3b4.jpg" width="300" height="500" >  <img src="https://user-images.githubusercontent.com/72352873/134967890-3ca3d9ef-deca-417f-9741-8252b99c6c56.jpg" width="300" height="500" > 
+ 
+
