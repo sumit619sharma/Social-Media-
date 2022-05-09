@@ -1,4 +1,4 @@
-# Social-Media-
+# Firendly-Chat
 
 # An android chat app which sync user post data in realtime.
  
