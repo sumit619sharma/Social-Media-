@@ -1,4 +1,4 @@
-# Firendly-Chat
+# Friendly-Chat
 
 # An android real-time chat app which fetched user data from FIREBASE DATABASE in realtime.
  
